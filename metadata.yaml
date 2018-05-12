@@ -1,0 +1,32 @@
+_repo: Destruction-and-Reconstruction-Personal-Experiences-of-the-Late-War_23747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Richard
+    birthdate: 1826
+    deathdate: 1879
+    gutenberg_agent_id: '26011'
+    url: http://www.gutenberg.org/2009/agents/26011
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+title: 'Destruction and Reconstruction:
+
+  Personal Experiences of the Late War'
+url: http://www.gutenberg.org/ebooks/23747
